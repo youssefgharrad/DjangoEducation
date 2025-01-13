@@ -1,6 +1,6 @@
 # DjangoRducation
 ## Overview
-DjangoEducation is an online course management platform, developed with Django, Python, and PostgreSQL, that enables teachers to create and manage course content, track student progress, and foster engagement. It includes AI-driven features to enhance the learning experience.
+DjangoEducation is an online course management platform, developed with Django, Python, and SQLite, that enables teachers to create and manage course content, track student progress, and foster engagement. It includes AI-driven features to enhance the learning experience.
 ## Login Dashboard
 ![image](https://github.com/user-attachments/assets/3c681d88-58c2-4a89-92b6-f699a8e2934d)
 
